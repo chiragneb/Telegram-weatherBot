@@ -6,8 +6,10 @@ Implementation from this [Tutorial](https://chatbotslife.com/how-to-write-the-we
 
 Packages required
 
-➡️ Node telegram Bot API ==> <https://www.npmjs.com/package/node-telegram-bot-api>
+➡️ Node telegram Bot API <https://www.npmjs.com/package/node-telegram-bot-api>
+
 ➡️ Axios
+
 ➡️ Open Weather Map API
 
 steps:
