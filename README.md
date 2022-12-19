@@ -18,8 +18,8 @@ Steps 🧑🏽‍💻:
 
 - set command (/temperature) for Bot
 
-- add your open weather map API keys in Climate.js file
+- add your open weather map API keys in ```Climate.js``` file
 
-- add Bot TOKEN to Climate.js file
+- add Bot TOKEN to ```Climate.js``` file
 
-- run ```node Climte.js``` on your Terminal
+- run ```node Climate.js``` on your Terminal
