@@ -8,7 +8,7 @@ Packages required
 
 ➡️ Node telegram Bot API <https://www.npmjs.com/package/node-telegram-bot-api>
 
-➡️ Axios
+➡️ Axios <https://www.npmjs.com/package/axios>
 
 ➡️ Open Weather Map API <https://www.npmjs.com/package/node-telegram-bot-api>
 
